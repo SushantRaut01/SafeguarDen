@@ -17,6 +17,9 @@ fi
 requirements(){
 sudo apt-get macchanger || sudo apt install macchanger &> /dev/null 
 sudo apt-get install python 
+sudo apt-get install tor || sudo apt install tor
+sudo apt-get install  proxychains || sudo apt-get install proxychains  
+
 MODULES=("colorama" "subprocess" "sys" "os" "time" "fake_useragent" "selenium" "stem" "webdriver_manager")
 
 if ! command -v pip &> /dev/null
