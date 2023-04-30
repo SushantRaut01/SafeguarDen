@@ -34,7 +34,7 @@ def main():
     print(Fore.WHITE+"     ╚════════════════════════════════════════════════╝")
 
     print("     ║"+Fore.RED+"["+Fore.GREEN+"✔"+Fore.RED+"] "+Fore.WHITE+"Name "+Fore.RED+":"+Fore.BLUE+" ANUJ GHOM & SUSHANT RAUT")
-    # print(Fore.WHITE+"     ║"+Fore.RED+"["+Fore.GREEN+"✔"+Fore.RED+"] "+Fore.WHITE+"ID "+Fore.RED+":"+Fore.BLUE+" 1097362967299596")
+    # print(Fore.WHITE+"     ║"+Fore.RED+"["+Fore.GREEN+"✔"+Fore.RED+"] "+Fore.WHITE+"ID "+Fore.RED+":"+Fore.BLUE+" ")
     print(Fore.WHITE+"     ╚═════════════════════════════════════════════════")
 
     print("     --"+Fore.RED+">"+Fore.GREEN+" 1."+Fore.WHITE+" Browse Anonymously")
