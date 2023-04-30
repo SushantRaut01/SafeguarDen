@@ -29,7 +29,7 @@ def main():
     print(Fore.WHITE+"     ║"+Fore.YELLOW + "✱  " + Fore.WHITE + "Coded By  " + Fore.RED + ":" + Fore.GREEN + " ANuJ & SUsh4Nt                   "+Fore.WHITE+"║")
     print(Fore.WHITE+"     ║"+Fore.YELLOW + "✱  " + Fore.WHITE + "Github    " + Fore.RED + ":" + Fore.GREEN + " https://github.com/SushantRaut01 "+Fore.WHITE+"║")
     print(Fore.WHITE+"     ║"+Fore.YELLOW + "✱  " + Fore.WHITE + "Languages " + Fore.RED + ":" + Fore.BLUE + " Python,Shell                     "+Fore.WHITE+"║")
-    print(Fore.WHITE+"     ║"+Fore.YELLOW + "✱  " + Fore.WHITE + "Licence   " + Fore.RED + ":" + Fore.GREEN + " G.P.L SAFEGUARDEN                "+Fore.WHITE+"║")
+    print(Fore.WHITE+"     ║"+Fore.YELLOW + "✱  " + Fore.WHITE + "Licence   " + Fore.RED + ":" + Fore.GREEN + "  GPL V3 License                  "+Fore.WHITE+"║")
     print(Fore.WHITE+"     ║"+Fore.YELLOW + "✱  " + Fore.WHITE + "Version   " + Fore.RED + ":" + Fore.BLUE + " 1.0                              "+Fore.WHITE+"║")
     print(Fore.WHITE+"     ╚════════════════════════════════════════════════╝")
 
