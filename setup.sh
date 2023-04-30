@@ -98,6 +98,7 @@ reset(){
 install(){
   echo -e "${LG}[+]${LG}" "${LW}Selection of installation destination ${LW}"
 mkdir /usr/share/SafeguardDen 
+mkdir /usr/share/SafeguardDen/Backup
 sleep 1
 cp -r * /usr/share/SafeguardDen
 chmod +x /usr/share/SafeguardDen
