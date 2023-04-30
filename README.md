@@ -99,6 +99,9 @@ SafeguardDen is a tool for browsing anonymously on the internet. It allows you t
 
 
 ## Usage
+<img alt="GIF" src="https://github.com/SushantRaut01/SafeguardDen/blob/b6616e78d47b7af12819abb75c26278e8c2a242a/resources/Project%20Logo/ezgif-1-3b8873fa33(1).gif" width="1000"/>
+
+
 
 ## Uninstallation
 
