@@ -45,7 +45,7 @@ SafeguardDen is a tool for browsing anonymously on the internet. It allows you t
     </tr>
     <tr>
       <td>IP Change</td>
-       <td>Change your device's IP address to avoid detection</td>
+       <td>Your internet traffic will be redirected through SafeguardDen tunnel </td>
     </tr>
         </tr>
     <tr>
