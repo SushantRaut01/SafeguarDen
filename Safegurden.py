@@ -56,13 +56,13 @@ if __name__ == '__main__':
         if user_input == 1 :
             subprocess.call(['bash','/usr/share/SafeguardDen/scripts/proxyWindow.py'])
         elif user_input == 2:
-            subprocess.call(['bash','/usr/share/SafeguardDen/scripts/ip_changer'])
+            subprocess.call(['bash','/usr/share/SafeguardDen/scripts/mcchanger.sh'])
         elif user_input == 3:
             subprocess.call(['bash','/usr/share/SafeguardDen/scripts/hostname.sh'])
         elif user_input == 4:
             subprocess.call(['bash','/usr/share/SafeguardDen/scripts/timezone_changer.sh'])
         elif user_input == 5:
-            subprocess.call(['bash','/usr/share/SafeguardDen/scripts/mcchanger.sh'])
+            subprocess.call(['bash','/usr/share/SafeguardDen/scripts/ip_changer'])
         elif user_input == 6:
             subprocess.call(['bash','/usr/share/SafeguardDen/scripts/tor_browser.sh'])
         elif user_input == 7:
