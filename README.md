@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/SushantRaut01/SafeguardDen/blob/main/resources/Project%20Logo/1682537644376.png" alt="SafeguardDen" width="250">
+  <img src="https://github.com/SushantRaut01/SafeguardDen/blob/07cd4ffd5a8e602e115ad79623738cf6e38e59b1/resources/Project%20Logo/1682537644376.png" alt="SafeguardDen" width="250">
 </h1>
 
 <h4 align="center"> <a href="https://github.com/SushantRaut01" target="_blank">SafeguardDen</a> is Privacy-focused tool for browsing the web anonymously, changing MAC address and Host name, Tor Functionality, clearing System logs and etc. </h4>
