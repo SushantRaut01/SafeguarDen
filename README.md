@@ -115,7 +115,7 @@ SafeguardDen is a tool for browsing anonymously on the internet. It allows you t
    sudo setup.sh reinstall 
    ```
 ## beta version v1.0
-Please note that our tool is currently in beta version, and we are continuously working to improve it. Your feedback is valuable to us as we strive to provide you with the best possible experience
+Please note this tool is currently in beta version, and we are continuously working to improve it. Your feedback is valuable to us as we strive to provide you with the best possible experience
 
 ## License
 
