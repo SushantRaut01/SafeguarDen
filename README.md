@@ -1,15 +1,15 @@
-# SafeguardDen
+# SafeguarDen
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/SushantRaut01/SafeguardDen/blob/07cd4ffd5a8e602e115ad79623738cf6e38e59b1/resources/Project%20Logo/1682537644376.png" alt="SafeguardDen" width="250">
+  <img src="https://github.com/SushantRaut01/SafeguarDen/blob/07cd4ffd5a8e602e115ad79623738cf6e38e59b1/resources/Project%20Logo/1682537644376.png" alt="SafeguarDen" width="250">
 </h1>
 
-<h4 align="center"> <a href="https://github.com/SushantRaut01" target="_blank">SafeguardDen</a> is Privacy-focused tool for browsing the web anonymously, changing MAC address and Host name, Tor Functionality, clearing System logs and etc. </h4>
+<h4 align="center"> <a href="https://github.com/SushantRaut01" target="_blank">SafeguarDen</a> is Privacy-focused tool for browsing the web anonymously, changing MAC address and Host name, Tor Functionality, clearing System logs and etc. </h4>
 
 <h2 align="center">About the project</h2>
 
-SafeguardDen is a tool for browsing anonymously on the internet. It allows you to change your MAC address, hostname, time zone, and IP address, and also enables you to use the Tor browser for enhanced privacy The tool also has a log cleaner to erase any traces of your System activity and status function to check your current settings.
+SafeguarDen is a tool for browsing anonymously on the internet. It allows you to change your MAC address, hostname, time zone, and IP address, and also enables you to use the Tor browser for enhanced privacy The tool also has a log cleaner to erase any traces of your System activity and status function to check your current settings.
 
 
 ## Table of Contents
@@ -45,7 +45,7 @@ SafeguardDen is a tool for browsing anonymously on the internet. It allows you t
     </tr>
     <tr>
       <td>IP Change</td>
-       <td>Your internet traffic will be redirected through SafeguardDen tunnel </td>
+       <td>Your internet traffic will be redirected through SafeguarDen tunnel </td>
     </tr>
         </tr>
     <tr>
@@ -83,14 +83,14 @@ SafeguardDen is a tool for browsing anonymously on the internet. It allows you t
 1. Clone the repo
  
    ```sh
-   git clone https://github.com/SushantRaut01/SafeguardDen.git
+   git clone https://github.com/SushantRaut01/SafeguarDen.git
    ```
 2. Install setup.sh
  
    ```sh
    sudo setup.sh install
    ```
-3. run SafeguardDen File
+3. run SafeguarDen File
 
    ```sh
    sudo python Safegurden.py 
@@ -99,7 +99,7 @@ SafeguardDen is a tool for browsing anonymously on the internet. It allows you t
 
 
 ## Usage
-<img alt="GIF" src="https://github.com/SushantRaut01/SafeguardDen/blob/b6616e78d47b7af12819abb75c26278e8c2a242a/resources/Project%20Logo/ezgif-1-3b8873fa33(1).gif" width="1000"/>
+<img alt="GIF" src="https://github.com/SushantRaut01/SafeguarDen/blob/b6616e78d47b7af12819abb75c26278e8c2a242a/resources/Project%20Logo/ezgif-1-3b8873fa33(1).gif" width="1000"/>
 
 
 
